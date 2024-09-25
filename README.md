@@ -1,4 +1,4 @@
-Hello, my name is Hugo (aka Nougator), I live in Switzerland and I'm an 18 years old 2nd grade electronic student.
+Hello, my name is Hugo (aka Nougator), I live in Switzerland and I'm an 19 years old 2nd grade electronic student.
 I mostly write C code for embedded systems (mostly PIC16F and Arduino) but I like programming random things on my free time.
 I want to learn Rust and F# but I never really got a chance to learn them yet.
 
